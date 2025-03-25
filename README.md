@@ -1,2 +1,2 @@
 # Mistero_V
-Author - Aditya Gaur
+Author - Ayush Devvanshi
