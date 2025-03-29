@@ -1,3 +1,4 @@
 # Mistero_V
-Author - Ayush Devvanshi <br>
-Friends - Aditya, Suraj
+Author - Aditya Gaur <br>
+Friends - Ayush, Suraj
+
